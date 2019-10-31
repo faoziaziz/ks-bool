@@ -1,0 +1,5 @@
+BoardInit.c:21:6:SystemClock_Config	96	static
+BoardInit.c:66:6:MX_SPI1_Init	8	static
+BoardInit.c:106:6:MX_USART1_UART_Init	8	static
+BoardInit.c:141:6:MX_USART4_UART_Init	8	static
+BoardInit.c:178:6:MX_GPIO_Init	32	static
